@@ -1,0 +1,8 @@
+{
+  "name": "ChronoSyntax: Sanity App SDK & Autonomous Workflows",
+  "description": "A strange vibe-coded studio and live incident control network built on Sanity Content Lake, featuring custom Video-to-GIF inputs, autonomous AI agent workflow state transitions, GROQ live query engine, and an interactive real-time App SDK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
